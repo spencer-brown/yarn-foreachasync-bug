@@ -1,0 +1,13 @@
+{
+  "name": "yarn-foreachasync-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Spencer Brown <me@spencer.sx>",
+  "license": "MIT",
+  "dependencies": {
+    "hbs-utils": "0.0.3"
+  },
+  "devDependencies": {
+    "gulp-bower": "0.0.10"
+  }
+}
